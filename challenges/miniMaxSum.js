@@ -6,7 +6,6 @@
 // miniMaxSum has the following parameter(s):
 
 // arr: an array of  integers
-// Print
 
 // Print two space-separated integers on one line: the minimum sum and the maximum sum of  of  elements.
 

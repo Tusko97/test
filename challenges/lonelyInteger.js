@@ -14,7 +14,7 @@
 // int: the element that occurs only once
 
 
-function lonelyinteger(a) {
+function lonelyInteger(a) {
     // Write your code here
 let result = 0;
 // Perform XOR operation on all elements in the array
